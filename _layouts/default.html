@@ -11,6 +11,7 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" type="text/css" href="assets/output.css">
+    <link rel="stylesheet" type="text/css" href="assets/bubbles.css">
     <title>Trudi</title>
 </head>
 <body>
@@ -23,7 +24,19 @@
             </div>
         </header>
         <main>
-            {{ content }}
+            <div class="content">
+                {{ content }}
+            </div>
+            <div class="background">
+                <div class="bubble-container">
+                  <div class="bubble1"></div>
+                  <div class="bubble2"></div>
+                  <div class="bubble3"></div>
+                  <div class="bubble4"></div>
+                  <div class="bubble5"></div>
+                  <div class="bubble6"></div>
+                </div>
+            </div>
         </main>
     </div>
 </body>
