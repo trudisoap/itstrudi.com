@@ -1,19 +1,127 @@
 soaps:
-    - name: Anieres
-      description: This is a description
+    - name: Bangkok
+      description: Lemongrass / lavender / peppermint.
+      suitability: all skin types.
       picture: 1
       tags:
+          - fresh
+          - citrus
+
+    - name: Winnipeg
+      description: Birchtar / Rosewood
+      suitability: body, normal skins.
+      picture: 5
+      tags:
           - smoky
-          - very-swiss
-    - name: Paris
-      description: Again
-      picture: 2
+          - leather
+          - floral
+
+    - name: Mandelay
+      description: Patchouli / Cypress / Sage
+      suitability: all skin types.
+      picture: 9
       tags:
-          - french
-          - baguette
-    - name: Pari2
-      description: This is a very long description to check what would happen in this case. aahahahah lol osdvear vjhg vc hgchj cjf cugf f cf chvgf yr xr dtrd rvdu trubd ytd yutrd utr dsutr vdsu trdsu trdsv utrbd r uyrvd ur
-      picture: 2
+          - woody
+          - powdery
+          - oriental
+
+    - name: Kunming
+      description: Jasmin / Geranium / Lavender / Ylang-ylang
+      suitability: sensitive skin.
+      picture: 13
       tags:
-          - french
-          - baguette
+          - flowery
+          - subtle
+
+    - name: Bribane
+      description: Orange / Rosemary / Clove / Eucalyptus
+      suitability: all skin types.
+      picture: 17
+      tags:
+          - aromatic
+          - spicy
+          - fresh
+
+    - name: Ise
+      description: Hinoki / Cedarwood / Black pepper
+      suitability: all skin types.
+      picture: 21
+      tags:
+          - woody
+          - fresh
+
+    - name: Berlin
+      description: Lavender / Geranium / Sage / Tea tree
+      suitability: oily skins.
+      picture: 25
+      tags:
+          - floral
+          - aromatic
+          - soft
+
+    - name: Reykjavik
+      description: Lavender / Rosewood / Ylang-ylang / Bergamot
+      suitability: sensitive skins.
+      picture: 29
+      tags:
+          - floral
+          - aromatic
+          - soft
+
+    - name: Casablanca
+      description: Neroli / Sandalwood / Vetiver
+      suitability: all skins types.
+      picture: 33
+      tags:
+          - woody
+          - citrus
+          - oriental
+
+    - name: Babylon
+      description: Myrrh / Patchouli / Frankincense / Orange / Vanilla / Cardamom / Cinnamon
+      suitability: mature skins.
+      picture: 37
+      tags:
+          - powdery
+          - oriental
+          - spicy
+
+    - name: Seattle
+      description: Vetiver / Cypress / Petitgrain
+      suitability: all skin types.
+      picture: 41
+      tags:
+          - woody
+          - fresh
+
+    - name: Singapour
+      description: Geranium / Peppermint
+      suitability: all skins types.
+      picture: 45
+      tags:
+          - fresh
+          - floral
+
+    - name: Tulum
+      description: Mandarin / Petitgrain / Black pepper
+      suitability: normal skins.
+      picture: 49
+      tags:
+          - fresh
+          - citrus
+
+    - name: Gordes
+      description: Lavender / Thyme
+      suitability: all skins types.
+      picture: 53
+      tags:
+          - fresh
+          - aromatic
+
+    - name: Anières
+      description: Bergamot / Cedarwood / Chamomile / Lavender / Sandalwood / Vetiver / Ylang-ylang
+      suitability: all skin types
+      picture: 57
+      tags:
+          - soft
+          - floral
