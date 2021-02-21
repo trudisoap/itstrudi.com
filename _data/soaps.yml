@@ -1,0 +1,19 @@
+soaps:
+    - name: Anieres
+      description: This is a description
+      picture: 1
+      tags:
+          - smoky
+          - very-swiss
+    - name: Paris
+      description: Again
+      picture: 2
+      tags:
+          - french
+          - baguette
+    - name: Pari2
+      description: This is a very long description to check what would happen in this case. aahahahah lol osdvear vjhg vc hgchj cjf cugf f cf chvgf yr xr dtrd rvdu trubd ytd yutrd utr dsutr vdsu trdsu trdsv utrbd r uyrvd ur
+      picture: 2
+      tags:
+          - french
+          - baguette

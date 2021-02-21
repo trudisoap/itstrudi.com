@@ -1,0 +1,16 @@
+title:
+  Trudi
+description:
+  Swiss-made soap
+url:
+  www.itstrudi.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - "*.config.js"
+  - "node_modules"
