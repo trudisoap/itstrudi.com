@@ -1,20 +1,22 @@
 soaps:
     - name: Bangkok
+      description: Some text will eventually make it here
       ingredients:
           - Lemongrass
           - Lavender
           - Peppermint
-      suitability: all skin types.
+      suitability: All skin types
       picture: 1
       tags:
           - fresh
           - citrus
 
     - name: Winnipeg
+      description: Some text will eventually make it here
       ingredients:
           - Birchtar
           - Rosewood
-      suitability: body, normal skins.
+      suitability: Body, normal skins
       picture: 5
       tags:
           - smoky
@@ -22,11 +24,12 @@ soaps:
           - floral
 
     - name: Mandelay
+      description: Some text will eventually make it here
       ingredients:
           - Patchouli
           - Cypress
           - Sage
-      suitability: all skin types.
+      suitability: All skin types
       picture: 9
       tags:
           - woody
@@ -34,24 +37,26 @@ soaps:
           - oriental
 
     - name: Kunming
+      description: Some text will eventually make it here
       ingredients:
           - Jasmin
           - Geranium
           - Lavender
           - Ylang-ylang
-      suitability: sensitive skin.
+      suitability: Sensitive skin
       picture: 13
       tags:
           - flowery
           - subtle
 
     - name: Brisbane
+      description: Some text will eventually make it here
       ingredients:
           - Orange
           - Rosemary
           - Clove
           - Eucalyptus
-      suitability: all skin types.
+      suitability: All skin types
       picture: 17
       tags:
           - aromatic
@@ -59,23 +64,25 @@ soaps:
           - fresh
 
     - name: Ise
+      description: Some text will eventually make it here
       ingredients:
           - Hinoki
           - Cedarwood
           - Black pepper
-      suitability: all skin types.
+      suitability: All skin types
       picture: 21
       tags:
           - woody
           - fresh
 
     - name: Berlin
+      description: Some text will eventually make it here
       ingredients:
           - Lavender
           - Geranium
           - Sage
           - Tea tree
-      suitability: oily skins.
+      suitability: Oily skins
       picture: 25
       tags:
           - floral
@@ -83,12 +90,13 @@ soaps:
           - soft
 
     - name: Reykjavik
+      description: Some text will eventually make it here
       ingredients:
           - Lavender
           - Rosewood
           - Ylang-ylang
           - Bergamot
-      suitability: sensitive skins.
+      suitability: Sensitive skins
       picture: 29
       tags:
           - floral
@@ -96,11 +104,12 @@ soaps:
           - soft
 
     - name: Casablanca
+      description: Some text will eventually make it here
       ingredients:
           - Neroli
           - Sandalwood
           - Vetiver
-      suitability: all skins types.
+      suitability: All skins types
       picture: 33
       tags:
           - woody
@@ -108,6 +117,7 @@ soaps:
           - oriental
 
     - name: Babylon
+      description: Some text will eventually make it here
       ingredients:
           - Myrrh    
           - Patchouli
@@ -116,7 +126,7 @@ soaps:
           - Vanilla
           - Cardamom
           - Cinnamon
-      suitability: mature skins.
+      suitability: Mature skins
       picture: 37
       tags:
           - powdery
@@ -124,48 +134,53 @@ soaps:
           - spicy
 
     - name: Seattle
+      description: Some text will eventually make it here
       ingredients:
           - Vetiver
           - Cypress
           - Petitgrain
-      suitability: all skin types.
+      suitability: All skin types
       picture: 41
       tags:
           - woody
           - fresh
 
     - name: Singapour
+      description: Some text will eventually make it here
       ingredients:
           - Geranium
           - Peppermint
-      suitability: all skins types.
+      suitability: All skins types
       picture: 45
       tags:
           - fresh
           - floral
 
     - name: Tulum
+      description: Some text will eventually make it here
       ingredients:
           - Mandarin
           - Petitgrain
           - Black pepper
-      suitability: normal skins.
+      suitability: Normal skins
       picture: 49
       tags:
           - fresh
           - citrus
 
     - name: Gordes
+      description: Some text will eventually make it here
       ingredients:
           - Lavender
           - Thyme
-      suitability: all skins types.
+      suitability: All skins types
       picture: 53
       tags:
           - fresh
           - aromatic
 
     - name: Anières
+      description: Some text will eventually make it here
       ingredients:
           - Bergamot
           - Cedarwood
@@ -174,7 +189,7 @@ soaps:
           - Sandalwood
           - Vetiver
           - Ylang-ylang
-      suitability: all skin types
+      suitability: All skin types
       picture: 57
       tags:
           - soft
