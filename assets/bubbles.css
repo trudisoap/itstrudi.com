@@ -25,12 +25,12 @@ html, body {
 .bubble1 {
   position: fixed;
   transform: translate(-33%, -33%) rotate(0) scale(1);
-  left: 0;
-  top: 0;
+  left: 5%;
+  top: 10%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23bc4e9c" /><stop offset="100%" stop-color="%23f80759" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 300px;
-  height: 300px;
+  width: 10em;
+  height: 10em;
   transform-origin: center;
   animation: bubble 8s ease-in-out 8s infinite alternate;
   opacity: 0.5;
@@ -42,8 +42,8 @@ html, body {
   top: 10%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%232196f3" /><stop offset="100%" stop-color="%23f44336" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 700px;
-  height: 700px;
+  width: 40em;
+  height: 40em;
   transform-origin: center;
   animation: bubble 9s ease-in-out 9s infinite alternate;
   opacity: 0.5;
@@ -55,8 +55,8 @@ html, body {
   top: 60%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23FFF" /><stop offset="100%" stop-color="%23076585" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 400px;
-  height: 400px;
+  width: 20em;
+  height: 20em;
   transform-origin: center;
   animation: bubble 4s ease-in-out 4s infinite alternate;
   opacity: 0.3;
@@ -68,8 +68,8 @@ html, body {
   bottom: 0;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23f8ffae" /><stop offset="100%" stop-color="%2343c6ac" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 200px;
-  height: 200px;
+  width: 10em;
+  height: 10em;
   transform-origin: center;
   animation: bubble 4s ease-in-out 4s infinite alternate;
   opacity: 0.6;
@@ -77,12 +77,12 @@ html, body {
 .bubble5 {
   position: fixed;
   transform: translate(-33%, -33%) rotate(0) scale(1);
-  left: 0;
+  left: 5%;
   top: 50%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23ff8008" /><stop offset="100%" stop-color="%23ffc837" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 900px;
-  height: 900px;
+  width: 60em;
+  height: 60em;
   transform-origin: center;
   animation: bubble 9s ease-in-out 9s infinite alternate;
   opacity: 0.3;
@@ -94,8 +94,8 @@ html, body {
   top: 80%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23bc4e9c" /><stop offset="100%" stop-color="%23f80759" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
-  width: 300px;
-  height: 300px;
+  width: 20em;
+  height: 20em;
   transform-origin: center;
   animation: bubble 8s ease-in-out 8s infinite alternate;
   opacity: 0.2;

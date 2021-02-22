@@ -3,7 +3,7 @@ permalink: /
 title: Trudi soaps
 ---
 
-<div class="flex justify-center flex-wrap p-10">
+<div class="flex justify-center flex-wrap p-5">
     {% for item in site.data.soaps.soaps %}
       <div class="max-w-xs rounded overflow-hidden shadow-lg my-2 m-5 mt-12 bg-white bg-opacity-75 transition duration-500 easi-in-out transform hover:scale-110">
           <img class="w-full lazy" src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
