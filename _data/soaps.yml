@@ -1,6 +1,9 @@
 soaps:
     - name: Bangkok
-      description: Lemongrass / lavender / peppermint.
+      ingredients:
+          - Lemongrass
+          - Lavender
+          - Peppermint
       suitability: all skin types.
       picture: 1
       tags:
@@ -8,7 +11,9 @@ soaps:
           - citrus
 
     - name: Winnipeg
-      description: Birchtar / Rosewood
+      ingredients:
+          - Birchtar
+          - Rosewood
       suitability: body, normal skins.
       picture: 5
       tags:
@@ -17,7 +22,10 @@ soaps:
           - floral
 
     - name: Mandelay
-      description: Patchouli / Cypress / Sage
+      ingredients:
+          - Patchouli
+          - Cypress
+          - Sage
       suitability: all skin types.
       picture: 9
       tags:
@@ -26,7 +34,11 @@ soaps:
           - oriental
 
     - name: Kunming
-      description: Jasmin / Geranium / Lavender / Ylang-ylang
+      ingredients:
+          - Jasmin
+          - Geranium
+          - Lavender
+          - Ylang-ylang
       suitability: sensitive skin.
       picture: 13
       tags:
@@ -34,7 +46,11 @@ soaps:
           - subtle
 
     - name: Brisbane
-      description: Orange / Rosemary / Clove / Eucalyptus
+      ingredients:
+          - Orange
+          - Rosemary
+          - Clove
+          - Eucalyptus
       suitability: all skin types.
       picture: 17
       tags:
@@ -43,7 +59,10 @@ soaps:
           - fresh
 
     - name: Ise
-      description: Hinoki / Cedarwood / Black pepper
+      ingredients:
+          - Hinoki
+          - Cedarwood
+          - Black pepper
       suitability: all skin types.
       picture: 21
       tags:
@@ -51,7 +70,11 @@ soaps:
           - fresh
 
     - name: Berlin
-      description: Lavender / Geranium / Sage / Tea tree
+      ingredients:
+          - Lavender
+          - Geranium
+          - Sage
+          - Tea tree
       suitability: oily skins.
       picture: 25
       tags:
@@ -60,7 +83,11 @@ soaps:
           - soft
 
     - name: Reykjavik
-      description: Lavender / Rosewood / Ylang-ylang / Bergamot
+      ingredients:
+          - Lavender
+          - Rosewood
+          - Ylang-ylang
+          - Bergamot
       suitability: sensitive skins.
       picture: 29
       tags:
@@ -69,7 +96,10 @@ soaps:
           - soft
 
     - name: Casablanca
-      description: Neroli / Sandalwood / Vetiver
+      ingredients:
+          - Neroli
+          - Sandalwood
+          - Vetiver
       suitability: all skins types.
       picture: 33
       tags:
@@ -78,7 +108,14 @@ soaps:
           - oriental
 
     - name: Babylon
-      description: Myrrh / Patchouli / Frankincense / Orange / Vanilla / Cardamom / Cinnamon
+      ingredients:
+          - Myrrh    
+          - Patchouli
+          - Frankincense
+          - Orange
+          - Vanilla
+          - Cardamom
+          - Cinnamon
       suitability: mature skins.
       picture: 37
       tags:
@@ -87,7 +124,10 @@ soaps:
           - spicy
 
     - name: Seattle
-      description: Vetiver / Cypress / Petitgrain
+      ingredients:
+          - Vetiver
+          - Cypress
+          - Petitgrain
       suitability: all skin types.
       picture: 41
       tags:
@@ -95,7 +135,9 @@ soaps:
           - fresh
 
     - name: Singapour
-      description: Geranium / Peppermint
+      ingredients:
+          - Geranium
+          - Peppermint
       suitability: all skins types.
       picture: 45
       tags:
@@ -103,7 +145,10 @@ soaps:
           - floral
 
     - name: Tulum
-      description: Mandarin / Petitgrain / Black pepper
+      ingredients:
+          - Mandarin
+          - Petitgrain
+          - Black pepper
       suitability: normal skins.
       picture: 49
       tags:
@@ -111,7 +156,9 @@ soaps:
           - citrus
 
     - name: Gordes
-      description: Lavender / Thyme
+      ingredients:
+          - Lavender
+          - Thyme
       suitability: all skins types.
       picture: 53
       tags:
@@ -119,7 +166,14 @@ soaps:
           - aromatic
 
     - name: Anières
-      description: Bergamot / Cedarwood / Chamomile / Lavender / Sandalwood / Vetiver / Ylang-ylang
+      ingredients:
+          - Bergamot
+          - Cedarwood
+          - Chamomile
+          - Lavender
+          - Sandalwood
+          - Vetiver
+          - Ylang-ylang
       suitability: all skin types
       picture: 57
       tags:
