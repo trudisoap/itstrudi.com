@@ -6,7 +6,7 @@ title: Trudi soaps
 <div class="flex justify-center flex-wrap p-10">
     {% for item in site.data.soaps.soaps %}
       <div class="max-w-xs rounded overflow-hidden shadow-lg my-2 m-5 mt-12 transition duration-500 easi-in-out transform hover:scale-110">
-          <img class="w-full" src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
+          <img class="w-full lazy" src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">{{ item.name }}</div>
             <p class="text-grey-darker text-base">{{ item.description }}</p>
