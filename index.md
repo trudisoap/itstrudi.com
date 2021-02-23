@@ -7,7 +7,7 @@ title: Trudi - Homepage
     {% for item in site.data.soaps.soaps %}
       <div class="max-w-sm rounded overflow-hidden shadow-lg my-2 m-5 mt-12 bg-white bg-opacity-75 transition duration-500 easi-in-out transform hover:scale-110">
           <img class="w-full lazy" src="/assets/pictures/{{ item.picture }}.png" alt="Picture of {{ item.name }}">
-          <div class="px-6 pt-4">
+          <div class="px-6 pt-4 pb-4">
             <div class="font-bold text-xl mb-1">{{ item.name }}</div>
             <div class="divide-y-2">
                 <p>{{ item.description }}</p>
@@ -27,7 +27,7 @@ title: Trudi - Homepage
                     <p class="text-grey-darker text-base font-semibold">Key ingredients</p>
                     <div class="flex flex-wrap text-grey-darker text-base items-center">
                         {% for ingredient in item.ingredients %}
-                            <div class="rounded-full bg-gray-200 p-2 m-1 text-center">{{ ingredient }}</div>
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2">{{ ingredient }}</span>
                         {% endfor %}
                     </div>
                 </div>

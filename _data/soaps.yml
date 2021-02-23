@@ -1,10 +1,12 @@
 soaps:
     - name: Bangkok
-      description: Some text will eventually make it here
+      description: When I smell this soap, I am directly transported to a zen spa in Thailand. A perfect fresh and soft combo with lemongrass, lavender and peppermint. Perfect for your body, hands but also hair. Ideally to rinse with water and vinegar to preserve the pH of your scalp.
       ingredients:
           - Lemongrass
           - Lavender
           - Peppermint
+          - Licorice
+          - Pink clay
       suitability: All skin types
       picture: 1
       tags:
