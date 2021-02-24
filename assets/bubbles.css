@@ -25,7 +25,7 @@ html, body {
 .bubble1 {
   position: fixed;
   transform: translate(-33%, -33%) rotate(0) scale(1);
-  left: 5%;
+  left: 15%;
   top: 10%;
   background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><defs><radialGradient id="gradient"><stop stop-color="%23bc4e9c" /><stop offset="100%" stop-color="%23f80759" /></radialGradient></defs><g><path style="fill: url(%23gradient)" d="M84.257 250.031c5.956-102.416 93.528-158.07 165.181-155.5 107.912 3.871 151.332 52.884 165.181 155.5 11.164 82.724-49.281 157.038-165.181 155.5-79.094-1.049-170.073-71.378-165.181-155.5z"/></g></svg>') no-repeat;
   background-size: auto;
