@@ -4,7 +4,7 @@ title: Trudi - How to order
 ---
 
 <div class="flex justify-center flex-wrap p-5 mt-12">
-    <div class="mx-5 min-h-screen grid place-content-start">
+    <div class="mx-5 grid place-content-start">
         <div class="bg-gradient-to-r from-purple-800 to-pink-500 rounded-2xl text-white p-8 text-center h-72 max-w-sm mx-auto">
             <h1 class="text-3xl mb-3">Order from Trudi 📦</h1>
             <p class="text-lg">To place an order, please fill out the form to the right and I will get back to you as soon as possible.</p>
