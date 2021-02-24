@@ -1,6 +1,6 @@
 soaps:
     - name: Bangkok
-      description: When I smell this soap, I am directly transported to a zen spa in Thailand. A perfect fresh and soft combo with lemongrass, lavender and peppermint. Perfect for your body, hands but also hair. Ideally to rinse with water and vinegar to preserve the pH of your scalp.
+      description: When I smell this soap, I am transported directly to a spa in Thailand! The combination of lemongrass, lavender and peppermint makes for a perfect fresh yet soft combo
       ingredients:
           - Lemongrass
           - Lavender
@@ -14,7 +14,7 @@ soaps:
           - citrus
 
     - name: Winnipeg
-      description: Some text will eventually make it here
+      description: Hop on for a journey to the wild north of Canada, in the pristine province of Manitoba. The perfect reward after a long day of hiking for all campers with this soap that literally smells like a comforting wood fire
       ingredients:
           - Birchtar
           - Rosewood
@@ -25,8 +25,8 @@ soaps:
           - leather
           - floral
 
-    - name: Mandelay
-      description: Some text will eventually make it here
+    - name: Mandalay
+      description: This soap, with its powdery scent reminds me of thanakha, a natural paste that Burmese women apply on their face and with countless skin benefits.
       ingredients:
           - Patchouli
           - Cypress
@@ -39,7 +39,7 @@ soaps:
           - oriental
 
     - name: Kunming
-      description: Some text will eventually make it here
+      description: The beautiful province of Yunnan in China is known around the world for its delicious green and jasmine teas, which I tried to honour in this flowery soap. It will transport you to a peaceful meditative tea tasting session
       ingredients:
           - Jasmin
           - Geranium
@@ -52,7 +52,7 @@ soaps:
           - subtle
 
     - name: Brisbane
-      description: Some text will eventually make it here
+      description: SWith its delicious eucalyptus scent, this soap is like a walk in the Australian rainforest (minus the giant snakes and spiders! THANK GOD) The charcoal and spirulina swirl makes me think of the tree canopy and the waves on the beautiful beaches of Queensland
       ingredients:
           - Orange
           - Rosemary
@@ -66,7 +66,7 @@ soaps:
           - fresh
 
     - name: Ise
-      description: Some text will eventually make it here
+      description: The great shrine of Ise in Mie Prefecture in Japan is in the spotlight here! This shrine (the largest in Japan) is entirely rebuilt every 20 years with the noble wood of the hinoki tree to symbolize the impermanence of things and the renewal of nature...
       ingredients:
           - Hinoki
           - Cedarwood
@@ -78,7 +78,7 @@ soaps:
           - fresh
 
     - name: Berlin
-      description: Some text will eventually make it here
+      description: "Berlin is known with its wild nightlife and cute family cafés; what a versatile lifestyle! Just like this soap: the perfect anti-pollution combo that cleans deeply but gently at the same time! The activated charcoal gives it this naturally black color, reflecting your wildest nights in the German capital!"
       ingredients:
           - Lavender
           - Geranium
@@ -92,7 +92,7 @@ soaps:
           - soft
 
     - name: Reykjavik
-      description: Some text will eventually make it here
+      description: Iceland! Its glaciers, volcanoes (anyone remembers Eyjafjallajökull??) and thermal lagoons! It's the best place to go if you're in need to refresh and restart. This soap is for anyone in need for a little "me-time" and is designed specifically for sensitive skin
       ingredients:
           - Lavender
           - Rosewood
@@ -106,7 +106,7 @@ soaps:
           - soft
 
     - name: Casablanca
-      description: Some text will eventually make it here
+      description: By popular demand for an orange blossom soap, here it is! With deep and complex woody notes of sandalwood and vetiver, this soap is absolutely exquisite and will delight your senses! Like an evening at Casablanca's Rick's Café
       ingredients:
           - Neroli
           - Sandalwood
@@ -119,7 +119,7 @@ soaps:
           - oriental
 
     - name: Babylon
-      description: Some text will eventually make it here
+      description: All these spices and luxurious scents make you dream of the greatness of ancient civilization... Well time travel does not exist yet but this soap allows you travel to a distant land, while taking care of your skin at the same time!
       ingredients:
           - Myrrh    
           - Patchouli
@@ -136,7 +136,7 @@ soaps:
           - spicy
 
     - name: Seattle
-      description: Some text will eventually make it here
+      description: This soap is the perfect definition of "petrichor"! You know, that fancy word to describe that special smell after a rainfall? If you don't know what I'm talking about, a little trip to the rainy city Seattle is a must! But remember that this soap emits less carbon than a flight around the world 😉 
       ingredients:
           - Vetiver
           - Cypress
@@ -148,7 +148,7 @@ soaps:
           - fresh
 
     - name: Singapour
-      description: Some text will eventually make it here
+      description: "Singapore, the definition of a true melting pot of cultures! The pink part of this soap smells like geranium and the green part like peppermint that creates a surprising combination of fresh and floral scent at the same time: two very different aromas combining to make a perfect whole! Just like this small country of South East Asia"
       ingredients:
           - Geranium
           - Peppermint
@@ -159,7 +159,7 @@ soaps:
           - floral
 
     - name: Tulum
-      description: Some text will eventually make it here
+      description: Let's close your eyes for a moment... Yum, the sweet scent of tangerine and petitgrain brings the sun and the beautiful beaches of Tulum straight to your home! And this little twist of pepper reminds me of the best mezcal drink ever! Can we be on holiday already??
       ingredients:
           - Mandarin
           - Petitgrain
@@ -171,7 +171,7 @@ soaps:
           - citrus
 
     - name: Gordes
-      description: Some text will eventually make it here
+      description: Ahh la belle Provence! If I were to summarize it in a few words it would be "sunny" and "lavender". I tried to combine these two in this soap, with a delicious aromatic scent of lavender and thyme that should bring you back to a beautiful summer day in the south of France
       ingredients:
           - Lavender
           - Thyme
@@ -182,7 +182,7 @@ soaps:
           - aromatic
 
     - name: Anières
-      description: Some text will eventually make it here
+      description: Welcome home Trudi! If you don't know where or what the heck is "Anieres", that's quite normal! This small village in Geneva, located  on the shores of the lake is Trudi's HQ! My little haven of peace, serene and calm, just like this soap with its sweet and calming scents! A little swirl of blue clay and oats that reminds me of our beautiful Lake Geneva (or more like "Lake Anières", let's be real guys).
       ingredients:
           - Bergamot
           - Cedarwood
