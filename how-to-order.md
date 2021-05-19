@@ -7,7 +7,7 @@ title: Trudi - How to order
     <div class="mx-5 grid place-content-start">
         <div class="bg-gradient-to-r from-purple-800 to-pink-500 rounded-2xl text-white p-8 text-center h-72 max-w-sm mx-auto">
             <h1 class="text-3xl mb-3">Order from Trudi 📦</h1>
-            <p class="text-lg">To place an order, please fill out the form on the right and I will get back to you asap :) Each bar of soap is approx. 100grams costs 10CHF </p>
+            <p class="text-lg">To place an order, please fill out the form on the right and I will get back to you asap :) Each bar of soap is approx. 100grams and costs 10CHF </p>
         </div>
         <div class="bg-white py-8 px-10 text-center rounded-md shadow-lg transform -translate-y-20 sm:-translate-y-24 max-w-xs mx-auto">
             <h2 class="font-semibold text-2xl mb-6">Follow me on Instagram for future updates</h2>
